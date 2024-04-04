@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\bin\Debug\Tutorial_ControlFlows.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\bin\Debug\Tutorial_ControlFlows.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\bin\Debug\Tutorial_ControlFlows.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\obj\Debug\Tutorial_ControlFlows.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\obj\Debug\Tutorial_ControlFlows.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\obj\Debug\Tutorial_ControlFlows.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_ControlFlows\obj\Debug\Tutorial_ControlFlows.pdb

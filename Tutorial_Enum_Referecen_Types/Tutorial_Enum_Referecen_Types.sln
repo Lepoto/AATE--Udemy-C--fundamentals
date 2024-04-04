@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial_Enum_Referecen_Types", "Tutorial_Enum_Referecen_Types.csproj", "{047CF135-AB49-4D6C-8524-4758EA3ADF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047CF135-AB49-4D6C-8524-4758EA3ADF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047CF135-AB49-4D6C-8524-4758EA3ADF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047CF135-AB49-4D6C-8524-4758EA3ADF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047CF135-AB49-4D6C-8524-4758EA3ADF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A51DC400-CC82-4BC9-B909-9C7F157417FB}
+	EndGlobalSection
+EndGlobal

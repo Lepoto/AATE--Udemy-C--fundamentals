@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\bin\Debug\Tutorial_Enum_Referecen_Types.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\bin\Debug\Tutorial_Enum_Referecen_Types.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\bin\Debug\Tutorial_Enum_Referecen_Types.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\obj\Debug\Tutorial_Enum_Referecen_Types.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\obj\Debug\Tutorial_Enum_Referecen_Types.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\obj\Debug\Tutorial_Enum_Referecen_Types.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Enum_Referecen_Types\obj\Debug\Tutorial_Enum_Referecen_Types.pdb

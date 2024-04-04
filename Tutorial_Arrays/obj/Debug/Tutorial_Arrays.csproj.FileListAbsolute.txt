@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\bin\Debug\Tutorial_Arrays.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\bin\Debug\Tutorial_Arrays.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\bin\Debug\Tutorial_Arrays.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\obj\Debug\Tutorial_Arrays.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\obj\Debug\Tutorial_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\obj\Debug\Tutorial_Arrays.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial_Arrays\obj\Debug\Tutorial_Arrays.pdb

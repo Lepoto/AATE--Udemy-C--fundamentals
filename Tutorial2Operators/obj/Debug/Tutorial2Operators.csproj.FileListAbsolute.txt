@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\bin\Debug\Tutorial2Operators.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\bin\Debug\Tutorial2Operators.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\bin\Debug\Tutorial2Operators.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\obj\Debug\Tutorial2Operators.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\obj\Debug\Tutorial2Operators.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\obj\Debug\Tutorial2Operators.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Tutorial2Operators\obj\Debug\Tutorial2Operators.pdb
