@@ -1,0 +1,15 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\bin\Debug\net8.0\SocialMediaPosts.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\bin\Debug\net8.0\SocialMediaPosts.deps.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\bin\Debug\net8.0\SocialMediaPosts.runtimeconfig.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\bin\Debug\net8.0\SocialMediaPosts.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\bin\Debug\net8.0\SocialMediaPosts.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.AssemblyInfoInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.AssemblyInfo.cs
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.sourcelink.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\refint\SocialMediaPosts.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\SocialMediaPosts.genruntimeconfig.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\SocialMediaPosts\obj\Debug\net8.0\ref\SocialMediaPosts.dll

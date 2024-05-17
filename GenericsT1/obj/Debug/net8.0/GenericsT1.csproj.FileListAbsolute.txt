@@ -1,0 +1,15 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\bin\Debug\net8.0\GenericsT1.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\bin\Debug\net8.0\GenericsT1.deps.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\bin\Debug\net8.0\GenericsT1.runtimeconfig.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\bin\Debug\net8.0\GenericsT1.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\bin\Debug\net8.0\GenericsT1.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.AssemblyInfoInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.AssemblyInfo.cs
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.sourcelink.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\refint\GenericsT1.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\GenericsT1.genruntimeconfig.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\GenericsT1\obj\Debug\net8.0\ref\GenericsT1.dll

@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\bin\Debug\Collections.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\bin\Debug\Collections.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\bin\Debug\Collections.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\obj\Debug\Collections.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Collections\obj\Debug\Collections.pdb

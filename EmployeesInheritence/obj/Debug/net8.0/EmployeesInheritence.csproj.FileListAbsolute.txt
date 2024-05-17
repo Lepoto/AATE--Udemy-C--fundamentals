@@ -1,0 +1,15 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\bin\Debug\net8.0\EmployeesInheritence.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\bin\Debug\net8.0\EmployeesInheritence.deps.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\bin\Debug\net8.0\EmployeesInheritence.runtimeconfig.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\bin\Debug\net8.0\EmployeesInheritence.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\bin\Debug\net8.0\EmployeesInheritence.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.AssemblyInfoInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.AssemblyInfo.cs
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.sourcelink.json
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\refint\EmployeesInheritence.dll
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\EmployeesInheritence.genruntimeconfig.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\EmployeesInheritence\obj\Debug\net8.0\ref\EmployeesInheritence.dll

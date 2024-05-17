@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\bin\Debug\OOP.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\bin\Debug\OOP.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\bin\Debug\OOP.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\obj\Debug\OOP.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\OOP\obj\Debug\OOP.pdb

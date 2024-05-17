@@ -1,0 +1,7 @@
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\bin\Debug\Threads-Tutorial.exe.config
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\bin\Debug\Threads-Tutorial.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\bin\Debug\Threads-Tutorial.pdb
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\obj\Debug\Threads-Tutorial.csproj.AssemblyReference.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\obj\Debug\Threads-Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\obj\Debug\Threads-Tutorial.exe
+C:\Users\lepot\Documents\Projects\CodeAlone\C# Fundamentals\Threads-Tutorial\obj\Debug\Threads-Tutorial.pdb
